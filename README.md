@@ -1,4 +1,4 @@
-# Application web de gestion des utilisateurs avec mysql
+# Application web de gestion des utilisateurs
 * Authentification
 * Validation des données
 * CRUD
